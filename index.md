@@ -12,7 +12,7 @@ In this chapter, we aim to organize 6 local chapter meetings per year and co-org
 Follow chapter news on [Twitter](https://twitter.com/) | [Meetup.com](https://meetup.com/)
 
 ## Speaking at OWASP Tehran, Iran Chapter Events
--Please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leader or our board members via e-mail (See links on the right hand side).
+-Please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail (See links on the right hand side).
 
 ## Next Meeting/Event(s)
 **OWASP Tehran, Iran Chapter Meetup August 2020 (13th August 2020). The meeting will consist of three episodes:**
