@@ -8,11 +8,11 @@ region: Asia
 ---
 ### OWASP Tehran, Iran
 Welcome to the Tehran, Iran Chapter homepage. The chapter leader is <a href="mailto:mohammad.hossein.golhassani@owasp.org">Mohammad Hossein Golhassani</a>.
-In this chapter, we aim to organize 6 local chapter meetings per year and co-organize the yearly IranOwasp Day. Any suggestions for speakers or venue? Feel free to reach out to us!
-Follow chapter news on [Twitter](https://twitter.com/) | [Meetup.com](https://meetup.com/)
+In this chapter, we aim to organize 6 local chapter meetings per year and co-organize the yearly Iran Owasp's Day. Any suggestions for speakers or venue? Feel free to reach out to us!
+Follow chapter news on [Twitter](https://twitter.com/) | [Meetup](https://meetup.com/)
 
 ## Speaking at OWASP Tehran, Iran Chapter Events
--Please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail (See links on the right hand side).
+- Please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail (See links on the right hand side).
 
 ## Next Meeting/Event(s)
 **OWASP Tehran, Iran Chapter Meetup August 2020 (13th August 2020). The meeting will consist of three episodes:**
