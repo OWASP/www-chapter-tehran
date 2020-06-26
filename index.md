@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Tehran, Iran
+title: OWASP Tehran
 tags: tehran-iran
 region: Asia
 
