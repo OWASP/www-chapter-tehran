@@ -6,7 +6,7 @@ tags: tehran-iran
 region: Asia
 
 ---
-### OWASP Tehran, Iran
+### OWASP Tehran
 Welcome to the Tehran, Iran Chapter homepage. The chapter leader is <a href="mailto:mohammad.hossein.golhassani@owasp.org">Mohammad Hossein Golhassani</a>.
 In this chapter, we aim to organize 6 local chapter meetings per year and co-organize the yearly Iran Owasp's Day. Any suggestions for speakers or venue? Feel free to reach out to us!
 Follow chapter news on [Twitter](https://twitter.com/) | [Meetup](https://meetup.com/)
