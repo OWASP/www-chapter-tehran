@@ -14,14 +14,15 @@ Follow chapter news on [Twitter](https://twitter.com/) | [Meetup](https://meetup
 ## Speaking at OWASP Tehran, Iran Chapter Events
 - Please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail (See links on the right hand side).
 
-## Next Meeting/Event(s)
-**OWASP Tehran, Iran Chapter Meetup August 2020 (13th August 2020). The meeting will consist of three episodes:**
+## Next Meeting/Event 
+Our meeting last month was canceled due to restrictions related to the coronavirus. Next month, however, we will be holding a 60-hour course on the topic of NGSDM (Next Generation Security Defense Mechanisms). We will announce the details soon.
 
-**First Talk: Call For Speakers**
+## Iran Chapter Agustus Meetup **CANCELLED**{: style="color: red"}:
+**<s>OWASP Tehran, Iran Chapter Meetup August 2020 (13th August 2020). The meeting will consist of three episodes:</s>**
 
-**Second Talk: Call For Speakers**
-
-**Third Talk: DDoS Mitigation Techniques Using PI - Mohammad Hossein Golhassani**
+**<s>First Talk: Call For Speakers</s>**
+**<s>Second Talk: Pattern Recognition In Malware Analysis - Erick Van De Laar</s>**
+**<s>Third Talk: DDoS Mitigation Techniques Using PI - Mohammad Hossein Golhassani</s>**
 
 ## Code of Conduct:
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our board members or chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously.
