@@ -16,12 +16,17 @@ Follow chapter news on [Twitter](https://twitter.com/) | [Meetup](https://meetup
 
 ## Next Meeting/Event 
 Our meeting last month was canceled due to restrictions related to the coronavirus. Next month, however, we will be holding a 60-hour course on the topic of NGSDM (Next Generation Security Defense Mechanisms). We will announce the details soon.
+### Call for Papers (CFP) is NOW OPEN
+
+Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
 ## Iran Chapter Agustus Meetup **CANCELLED**{: style="color: red"}:
 **<s>OWASP Tehran, Iran Chapter Meetup August 2020 (13th August 2020). The meeting will consist of three episodes:</s>**
 
 **<s>First Talk: Call For Speakers</s>**
+
 **<s>Second Talk: Pattern Recognition In Malware Analysis - Erick Van De Laar</s>**
+
 **<s>Third Talk: DDoS Mitigation Techniques Using PI - Mohammad Hossein Golhassani</s>**
 
 ## Code of Conduct:
