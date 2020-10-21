@@ -6,6 +6,6 @@
 * [Twitter](#)
 
 ### Board Members
-* [Abbas Safari](#)
-* [Moein Izadi ](#)
-* [Mohammadreza Deljoo](#)
+* [Abbas Safari]
+* [Moein Izadi ]
+* [Mohammadreza Deljoo]
