@@ -5,7 +5,4 @@
 * [Meetup](#)
 * [Twitter](#)
 
-### Board Members
-* [Abbas Safari]
-* [Moein Izadi ]
-* [Mohammadreza Deljoo]
+
